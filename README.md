@@ -1,5 +1,6 @@
 # ScratchDatabase
 trying to use scratch as a database with unlimited server space for any use
+IN DEVELOPMENT!
 
 some ideas already:
 - Use comments
@@ -16,3 +17,6 @@ some ideas already:
   - harder to use api
   - saving projects takes quite long at bigger sizes
   - need to save data in .svg or .wav and extract it again
+
+
+#option with multiple projects is more realistic, as the comments are likely to be cracked and have that stupid 500 letter limit
