@@ -1,4 +1,4 @@
-# ScratchDatabase
+# ScratchDrive
 trying to use scratch as a database with unlimited server space for any use
 ## **IN DEVELOPMENT!**
 
@@ -21,3 +21,6 @@ some ideas already:
   - need to save data in .svg or .wav and extract it again
 
 > option with multiple projects is more realistic, as the comments are likely to be cracked and have that stupid 500 letter limit
+
+
+PROGRESS: maybe it is smarter to use the asset api directly. The only thing that would need to be stored locally is the MD5 hash of the data and some identifier for it.
