@@ -1,5 +1,5 @@
 # ScratchDrive
-trying to use scratch as a database with unlimited server space for any use
+trying to use scratch as a cloud storage with unlimited server space for any use
 ## **IN DEVELOPMENT!**
 
 idk if this even works, but it would be great if it does!
